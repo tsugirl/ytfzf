@@ -220,3 +220,4 @@ Feel free to contribute, and add your name to the credits, please use the develo
 3 изменение в файле в branch_1
 раз, два, три
 раз, два, три 2
+раз, два, три 3
